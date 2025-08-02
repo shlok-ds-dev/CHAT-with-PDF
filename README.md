@@ -154,23 +154,7 @@ The React frontend can be deployed to:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-##  Author
-
-**Shlok Raval**
-- GitHub: [@shlok-ds-dev](https://github.com/shlok-ds-dev)
-- LinkedIn: [shlokraval](https://www.linkedin.com/in/shlokraval)
-- Kaggle: [shlokraval](https://www.kaggle.com/shlokraval)
-
-##  Acknowledgments
-
-- LangChain team for the amazing LLM orchestration framework
-- Azure OpenAI for providing the GPT-4 model
-- HuggingFace for the sentence transformers
-- React community for the excellent frontend framework
 
 ---
 
