@@ -1,0 +1,14 @@
+Flask
+flask-cors
+python-dotenv
+langchain-docling
+langchain-core
+langchain-chroma
+langchain
+python-dotenv
+langgraph
+langchain-community
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+langchain-openai
